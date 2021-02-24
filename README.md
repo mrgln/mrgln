@@ -2,7 +2,7 @@
 
 .NET Developer 💻
 
-Now making a Client Server Application ✦
+Now making a Client Server Application - WCF Chat ✦
 
 Can't live without candies and chocolate 🍩
 
